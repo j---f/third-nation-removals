@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+flask
+dateparser>=1.0.0
