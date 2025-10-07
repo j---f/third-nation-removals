@@ -1,1 +1,424 @@
-[]
+[
+  {
+    "destination_country": "QATAR",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 120,
+    "origin_nationalities": [
+      "Iranian"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 120 Iranians. A US official told Reuters some had criminal convictions and some were undocumented, but this has not been independently verified, and US officials are known to have lied about this before."
+  },
+  {
+    "destination_country": "GHANA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 5,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: On Sept. 5, 14 men from Nigeria and the Gambia with credible fear orders preventing deportation to their countries of origin. A DHS official told me \u201csome\u201d had criminal records, but this cannot be independently verified, and the official is known to have lied before about migrants\u2019 criminal backgrounds. Later September, up to 14 more migrants from Nigeria, Liberia, Togo and perhaps Mali, who also appear to have been asylum-seekers. At least two said they were green card holders who had completed prison sentences for fraud."
+  },
+  {
+    "destination_country": "EGYPT",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 20,
+    "origin_nationalities": [
+      "Russian"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 20 Russian asylum-seekers, including the dissident Artyom Vovchenko."
+  },
+  {
+    "destination_country": "ESWATINI",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 11,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: In July, five men from Cuba, Laos, Vietnam and Yemen, plus Jamaican national Orville Etoria, who had all completed prison sentences in the US. At least three had been released into the community without incident before being detained by ICE and sent to Eswatini. DHS claimed their countries had refused to take them back, but attorneys for the men, and at least one of the countries, deny this. In October, a second group of no more than 11 third-country nationals arrived and were imprisoned."
+  },
+  {
+    "destination_country": "SOUTH SUDAN",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: Seven men originally from Cuba, Laos, Mexico, Myanmar, Sudan and Vietnam. (An eighth man removed with this group is from South Sudan.) DHS said the men had been convicted of serious crimes in the US, had completed their sentences, and that their countries of origin had refused to accept their return. Several of the countries of origin disputed that claim. The men were held in a shipping container at a US base in Djibouti for seven weeks while their court case was heard."
+  },
+  {
+    "destination_country": "GUATEMALA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: An unknown number of migrants from Central American countries."
+  },
+  {
+    "destination_country": "HONDURAS",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: An unknown number of migrants from other Central American countries."
+  },
+  {
+    "destination_country": "UZBEKISTAN",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 131,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: In April, 131 people were removed to Uzbekistan, among them an unknown number of Kazakh and Kyrgyzs nationals with Uzbek deportees. In September, a flight bearing similar characteristics arrived in Uzbekistan; nothing is known yet about the passengers."
+  },
+  {
+    "destination_country": "RWANDA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: Iraqi national Omar Ameen and seven unidentified migrants. Ameen came to the US with his family as a refugee and was later accused of a murder in Iraq. Though a US judge ruled Ameen could not have committed the murder and could not be deported to Iraq, the Biden administration continued with Ameen\u2019s third-country deportation process up until Trump took over in January. The seven other people arrived in August."
+  },
+  {
+    "destination_country": "BHUTAN",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 27,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: At least 27 stateless refugees stripped of citizenship by Bhutan in the 1990s due to their ethnicity who legally resettled in the US. All who were recently detained and removed appear to have had criminal records, ranging from traffic violations to juvenile offenses and assault, and had completed their sentences years ago. Because they are stateless and were re-expelled, I am including their removals to Bhutan as third-country removals."
+  },
+  {
+    "destination_country": "EL SALVADOR",
+    "date": "2025-03-15",
+    "date_range_end": "2025-03-16",
+    "number_removed": 252,
+    "origin_nationalities": [
+      "Venezuelan"
+    ],
+    "source_urls": [],
+    "notes": "Who: 252 Venezuelans falsely claimed to be gang members and declared \u201calien enemies,\u201d along with about 30 Salvadoran deportees, including Kilmar Abrego Garcia, who was deported by mistake. All of the flights appear to have violated a court order. Most of the migrants had entered the US legally; only six had been convicted of violent crimes."
+  },
+  {
+    "destination_country": "COSTA RICA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 200,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 200 migrants, including 81 children with their families, mostly from Central Asia. Many said they had entered the US from Mexico to legally seek asylum, had been detained, and were prevented from filing their claims before their removal."
+  },
+  {
+    "destination_country": "PANAMA",
+    "date": "2025-02-12",
+    "date_range_end": "2025-02-15",
+    "number_removed": 300,
+    "origin_nationalities": [
+      "Iranian",
+      "Afghan"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 300 people, including many families, mostly from Central and East Asian countries. Many said they had entered the US from Mexico to legally seek asylum, had been detained, and were prevented from filing their claims before their removal. This includes Iranian Christian families and at least one Afghan man who said he helped the US military during the war in Afghanistan."
+  },
+  {
+    "destination_country": "MEXICO",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 6,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: At least 6,500 people from Central and South America and the Caribbean, according to Mexican president Claudia Sheinbaum."
+  },
+  {
+    "destination_country": "Read more",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": ""
+  },
+  {
+    "destination_country": "Hard-G History",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": ""
+  },
+  {
+    "destination_country": "QATAR",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 120,
+    "origin_nationalities": [
+      "Iranian"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 120 Iranians. A US official told Reuters some had criminal convictions and some were undocumented, but this has not been independently verified, and US officials are known to have lied about this before.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.660701"
+  },
+  {
+    "destination_country": "GHANA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 5,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: On Sept. 5, 14 men from Nigeria and the Gambia with credible fear orders preventing deportation to their countries of origin. A DHS official told me \u201csome\u201d had criminal records, but this cannot be independently verified, and the official is known to have lied before about migrants\u2019 criminal backgrounds. Later September, up to 14 more migrants from Nigeria, Liberia, Togo and perhaps Mali, who also appear to have been asylum-seekers. At least two said they were green card holders who had completed prison sentences for fraud.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.714388"
+  },
+  {
+    "destination_country": "EGYPT",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 20,
+    "origin_nationalities": [
+      "Russian"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 20 Russian asylum-seekers, including the dissident Artyom Vovchenko.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.728315"
+  },
+  {
+    "destination_country": "ESWATINI",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 11,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: In July, five men from Cuba, Laos, Vietnam and Yemen, plus Jamaican national Orville Etoria, who had all completed prison sentences in the US. At least three had been released into the community without incident before being detained by ICE and sent to Eswatini. DHS claimed their countries had refused to take them back, but attorneys for the men, and at least one of the countries, deny this. In October, a second group of no more than 11 third-country nationals arrived and were imprisoned.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.751218"
+  },
+  {
+    "destination_country": "SOUTH SUDAN",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: Seven men originally from Cuba, Laos, Mexico, Myanmar, Sudan and Vietnam. (An eighth man removed with this group is from South Sudan.) DHS said the men had been convicted of serious crimes in the US, had completed their sentences, and that their countries of origin had refused to accept their return. Several of the countries of origin disputed that claim. The men were held in a shipping container at a US base in Djibouti for seven weeks while their court case was heard.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.781057"
+  },
+  {
+    "destination_country": "GUATEMALA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: An unknown number of migrants from Central American countries.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.793439"
+  },
+  {
+    "destination_country": "HONDURAS",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: An unknown number of migrants from other Central American countries.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.804832"
+  },
+  {
+    "destination_country": "UZBEKISTAN",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 131,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: In April, 131 people were removed to Uzbekistan, among them an unknown number of Kazakh and Kyrgyzs nationals with Uzbek deportees. In September, a flight bearing similar characteristics arrived in Uzbekistan; nothing is known yet about the passengers.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.827241"
+  },
+  {
+    "destination_country": "RWANDA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: Iraqi national Omar Ameen and seven unidentified migrants. Ameen came to the US with his family as a refugee and was later accused of a murder in Iraq. Though a US judge ruled Ameen could not have committed the murder and could not be deported to Iraq, the Biden administration continued with Ameen\u2019s third-country deportation process up until Trump took over in January. The seven other people arrived in August.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.850449"
+  },
+  {
+    "destination_country": "BHUTAN",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 27,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: At least 27 stateless refugees stripped of citizenship by Bhutan in the 1990s due to their ethnicity who legally resettled in the US. All who were recently detained and removed appear to have had criminal records, ranging from traffic violations to juvenile offenses and assault, and had completed their sentences years ago. Because they are stateless and were re-expelled, I am including their removals to Bhutan as third-country removals.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.865703"
+  },
+  {
+    "destination_country": "EL SALVADOR",
+    "date": "2025-03-15",
+    "date_range_end": "2025-03-16",
+    "number_removed": 252,
+    "origin_nationalities": [
+      "Venezuelan"
+    ],
+    "source_urls": [],
+    "notes": "Who: 252 Venezuelans falsely claimed to be gang members and declared \u201calien enemies,\u201d along with about 30 Salvadoran deportees, including Kilmar Abrego Garcia, who was deported by mistake. All of the flights appear to have violated a court order. Most of the migrants had entered the US legally; only six had been convicted of violent crimes.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.868155"
+  },
+  {
+    "destination_country": "COSTA RICA",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 200,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 200 migrants, including 81 children with their families, mostly from Central Asia. Many said they had entered the US from Mexico to legally seek asylum, had been detained, and were prevented from filing their claims before their removal.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.882071"
+  },
+  {
+    "destination_country": "PANAMA",
+    "date": "2025-02-12",
+    "date_range_end": "2025-02-15",
+    "number_removed": 300,
+    "origin_nationalities": [
+      "Iranian",
+      "Afghan"
+    ],
+    "source_urls": [],
+    "notes": "Who: Approximately 300 people, including many families, mostly from Central and East Asian countries. Many said they had entered the US from Mexico to legally seek asylum, had been detained, and were prevented from filing their claims before their removal. This includes Iranian Christian families and at least one Afghan man who said he helped the US military during the war in Afghanistan.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.884615"
+  },
+  {
+    "destination_country": "MEXICO",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": 6,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "Who: At least 6,500 people from Central and South America and the Caribbean, according to Mexican president Claudia Sheinbaum.",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.900278"
+  },
+  {
+    "destination_country": "Read more",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.900305"
+  },
+  {
+    "destination_country": "Hard-G History",
+    "date": "2025-10-07",
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [],
+    "notes": "",
+    "data_source": "Hard G History",
+    "source_url": "https://hardghistory.ghost.io/tracking-all-of-trumps-third-country-removals-that-we-know-of/",
+    "scraped_at": "2025-10-07T17:45:38.900322"
+  },
+  {
+    "destination_country": "MULTIPLE",
+    "date": null,
+    "date_range_end": null,
+    "number_removed": null,
+    "origin_nationalities": [
+      "Various"
+    ],
+    "source_urls": [
+      "https://ohss.dhs.gov/topics/immigration/immigration-enforcement/monthly-tables",
+      "https://ohss.dhs.gov/sites/default/files/2025-01/2025_0116_ohss_immigration-enforcement-and-legal-processes-tables-november-2024.xlsx",
+      "https://ohss.dhs.gov/sites/default/files/2024-12/2024_1206_ohss_immigration-enforcement-and-legal-processes-tables-august-2024.xlsx",
+      "https://ohss.dhs.gov/sites/default/files/2024-11/2024_1108_ohss_immigration-enforcement-and-legal-processes-tables-july-2024.xlsx",
+      "https://ohss.dhs.gov/sites/default/files/2024-10/24-1011_ohss_immigration-enforcement-and-legal-processes-tables-june-2024_2.xlsx"
+    ],
+    "notes": "DHS OHSS monthly reports available: 14 reports found",
+    "data_source": "DHS OHSS",
+    "source_url": "https://ohss.dhs.gov/topics/immigration/immigration-enforcement/monthly-tables",
+    "scraped_at": "2025-10-07T17:45:53.874180"
+  }
+]

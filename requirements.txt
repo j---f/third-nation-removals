@@ -2,3 +2,6 @@ requests
 beautifulsoup4
 flask
 dateparser>=1.0.0
+pandas
+reportlab
+python-docx

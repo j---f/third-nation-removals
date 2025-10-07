@@ -1,0 +1,222 @@
+THIRD-NATION REMOVALS DATA
+==================================================
+Generated on 2025-10-07 17:29:26
+
+SUMMARY
+--------------------
+Total removal events: 16
+Total people removed: 1072
+Destination countries: 16
+
+BY DESTINATION COUNTRY
+------------------------------
+BHUTAN
+  Events: 1
+  People removed: 27
+
+COSTA RICA
+  Events: 1
+  People removed: 200
+
+EGYPT
+  Events: 1
+  People removed: 20
+
+EL SALVADOR
+  Events: 1
+  People removed: 252
+
+ESWATINI
+  Events: 1
+  People removed: 11
+
+GHANA
+  Events: 1
+  People removed: 5
+
+GUATEMALA
+  Events: 1
+  People removed: 0
+
+HONDURAS
+  Events: 1
+  People removed: 0
+
+Hard-G History
+  Events: 1
+  People removed: 0
+
+MEXICO
+  Events: 1
+  People removed: 6
+
+PANAMA
+  Events: 1
+  People removed: 300
+
+QATAR
+  Events: 1
+  People removed: 120
+
+RWANDA
+  Events: 1
+  People removed: 0
+
+Read more
+  Events: 1
+  People removed: 0
+
+SOUTH SUDAN
+  Events: 1
+  People removed: 0
+
+UZBEKISTAN
+  Events: 1
+  People removed: 131
+
+DETAILED DATA
+--------------------
+Entry 1
+  Destination Country: QATAR
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 120
+  Origin Nationalities: Iranian
+  Source URLs: 
+  Notes: Who: Approximately 120 Iranians. A US official told Reuters some had criminal convictions and some were undocumented, but this has not been independently verified, and US officials are known to have lied about this before.
+
+Entry 2
+  Destination Country: GHANA
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 5
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: On Sept. 5, 14 men from Nigeria and the Gambia with credible fear orders preventing deportation to their countries of origin. A DHS official told me “some” had criminal records, but this cannot be independently verified, and the official is known to have lied before about migrants’ criminal backgrounds. Later September, up to 14 more migrants from Nigeria, Liberia, Togo and perhaps Mali, who also appear to have been asylum-seekers. At least two said they were green card holders who had completed prison sentences for fraud.
+
+Entry 3
+  Destination Country: EGYPT
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 20
+  Origin Nationalities: Russian
+  Source URLs: 
+  Notes: Who: Approximately 20 Russian asylum-seekers, including the dissident Artyom Vovchenko.
+
+Entry 4
+  Destination Country: ESWATINI
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 11
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: In July, five men from Cuba, Laos, Vietnam and Yemen, plus Jamaican national Orville Etoria, who had all completed prison sentences in the US. At least three had been released into the community without incident before being detained by ICE and sent to Eswatini. DHS claimed their countries had refused to take them back, but attorneys for the men, and at least one of the countries, deny this. In October, a second group of no more than 11 third-country nationals arrived and were imprisoned.
+
+Entry 5
+  Destination Country: SOUTH SUDAN
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: None
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: Seven men originally from Cuba, Laos, Mexico, Myanmar, Sudan and Vietnam. (An eighth man removed with this group is from South Sudan.) DHS said the men had been convicted of serious crimes in the US, had completed their sentences, and that their countries of origin had refused to accept their return. Several of the countries of origin disputed that claim. The men were held in a shipping container at a US base in Djibouti for seven weeks while their court case was heard.
+
+Entry 6
+  Destination Country: GUATEMALA
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: None
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: An unknown number of migrants from Central American countries.
+
+Entry 7
+  Destination Country: HONDURAS
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: None
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: An unknown number of migrants from other Central American countries.
+
+Entry 8
+  Destination Country: UZBEKISTAN
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 131
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: In April, 131 people were removed to Uzbekistan, among them an unknown number of Kazakh and Kyrgyzs nationals with Uzbek deportees. In September, a flight bearing similar characteristics arrived in Uzbekistan; nothing is known yet about the passengers.
+
+Entry 9
+  Destination Country: RWANDA
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: None
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: Iraqi national Omar Ameen and seven unidentified migrants. Ameen came to the US with his family as a refugee and was later accused of a murder in Iraq. Though a US judge ruled Ameen could not have committed the murder and could not be deported to Iraq, the Biden administration continued with Ameen’s third-country deportation process up until Trump took over in January. The seven other people arrived in August.
+
+Entry 10
+  Destination Country: BHUTAN
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 27
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: At least 27 stateless refugees stripped of citizenship by Bhutan in the 1990s due to their ethnicity who legally resettled in the US. All who were recently detained and removed appear to have had criminal records, ranging from traffic violations to juvenile offenses and assault, and had completed their sentences years ago. Because they are stateless and were re-expelled, I am including their removals to Bhutan as third-country removals.
+
+Entry 11
+  Destination Country: EL SALVADOR
+  Date: 2025-03-15
+  Date Range End: 2025-03-16
+  Number Removed: 252
+  Origin Nationalities: Venezuelan
+  Source URLs: 
+  Notes: Who: 252 Venezuelans falsely claimed to be gang members and declared “alien enemies,” along with about 30 Salvadoran deportees, including Kilmar Abrego Garcia, who was deported by mistake. All of the flights appear to have violated a court order. Most of the migrants had entered the US legally; only six had been convicted of violent crimes.
+
+Entry 12
+  Destination Country: COSTA RICA
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 200
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: Approximately 200 migrants, including 81 children with their families, mostly from Central Asia. Many said they had entered the US from Mexico to legally seek asylum, had been detained, and were prevented from filing their claims before their removal.
+
+Entry 13
+  Destination Country: PANAMA
+  Date: 2025-02-12
+  Date Range End: 2025-02-15
+  Number Removed: 300
+  Origin Nationalities: Iranian, Afghan
+  Source URLs: 
+  Notes: Who: Approximately 300 people, including many families, mostly from Central and East Asian countries. Many said they had entered the US from Mexico to legally seek asylum, had been detained, and were prevented from filing their claims before their removal. This includes Iranian Christian families and at least one Afghan man who said he helped the US military during the war in Afghanistan.
+
+Entry 14
+  Destination Country: MEXICO
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: 6
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: Who: At least 6,500 people from Central and South America and the Caribbean, according to Mexican president Claudia Sheinbaum.
+
+Entry 15
+  Destination Country: Read more
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: None
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: 
+
+Entry 16
+  Destination Country: Hard-G History
+  Date: 2025-10-07
+  Date Range End: None
+  Number Removed: None
+  Origin Nationalities: Various
+  Source URLs: 
+  Notes: 
+

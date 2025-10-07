@@ -24,7 +24,7 @@ jobs:
 
     - name: Update removals data
       run: |
-        python scripts/scraper_framework.py
+        python scripts/multi_source_scraper.py
 
     - name: Validate data
       run: |
@@ -38,6 +38,6 @@ jobs:
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "chore: auto-update removals data"
+          git commit -m "chore: auto-update removals data from multiple sources"
           git push
         fi
